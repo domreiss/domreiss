@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @domreiss
+- 👀 I’m interested in software development and all of its variations
+- 🌱 I’m currently deep diving into patterns and CI.
